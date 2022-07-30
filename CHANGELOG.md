@@ -1,3 +1,10 @@
+# [0.3.0](https://github.com/ICPS-MicroCity/case-study-analysis/compare/v0.2.1...v0.3.0) (2022-07-30)
+
+
+### Features
+
+* add scenarios and requirements ([2d45a99](https://github.com/ICPS-MicroCity/case-study-analysis/commit/2d45a99450ce6ded222400d82292ab249620208c))
+
 ## [0.2.1](https://github.com/ICPS-MicroCity/case-study-analysis/compare/v0.2.0...v0.2.1) (2022-07-04)
 
 
